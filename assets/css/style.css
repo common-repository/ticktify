@@ -1,0 +1,90 @@
+.random {
+    border: 3px solid #f1f1f1;
+    width: 60%;
+    padding: 16px 0;
+    text-align:center;
+}
+button {
+    background-color: #8ebf42;
+    color: white;
+    padding: 4% 0;
+    margin: 10% 0;
+    border: none;
+    width: 30%;
+    border-radius: 10%;
+    }
+
+#email{
+    padding: 10px 0;
+    margin: 10px 0px;
+    right: 0px;
+}
+#password{
+    padding: 10px 0;
+    margin: 10px 0;
+    right: 0px;
+}
+#username{
+    padding: 10px 0;
+    margin: 10px 0px;
+    right: 0px;
+}
+input[type=email],input[type=text], input[type=password] {
+    width: 70%;
+    padding: 16px 8px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+
+    /* styling of event detail page */
+   
+ .wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+}
+.column-2 {
+    width: 60%;
+    position: relative;
+    margin-top: 20%;
+}
+.leftbox{
+    width: 70%;
+}
+.column-3 {
+    width: 40%;
+    margin-top: 10%;
+}
+.grid{
+    margin: .4rem 0;
+}
+#inputSubmit{
+    background-color: #8ebf42;
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #FFFFFF;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    text-align:center;
+    transition: all 0.2s;
+}
+.count_down{
+
+    margin-top: 6%;
+    font-size: 30px; 
+    color: blue;
+
+}
+.gm-style-mtc button {
+    width: 90%;
+    border-radius: unset;
+}
+
